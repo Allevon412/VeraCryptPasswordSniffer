@@ -1,0 +1,10 @@
+﻿  helper_functions.cpp
+C:\sektor7\malware_dev_intermediate\VCSniffer\VCSniffer\VCPersist\helper_functions.cpp(94,34): warning C4302: 'type cast': truncation from 'char *' to 'WORD'
+  main.cpp
+C:\sektor7\malware_dev_intermediate\VCSniffer\VCSniffer\VCPersist\main.cpp(10,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\sektor7\malware_dev_intermediate\VCSniffer\VCSniffer\VCPersist\main.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  Generating code
+  Finished generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 9 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  VCPersist.vcxproj -> C:\sektor7\malware_dev_intermediate\VCSniffer\VCSniffer\x64\Release\VCPersist.exe

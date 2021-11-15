@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\sektor7\malware_dev_intermediate\VCSniffer\VCSniffer\VCMigrate\main.cpp(256,38): warning C4311: 'type cast': pointer truncation from 'WOW64CONTEXT *' to 'DWORD'
+C:\sektor7\malware_dev_intermediate\VCSniffer\VCSniffer\VCMigrate\main.cpp(256,38): warning C4302: 'type cast': truncation from 'WOW64CONTEXT *' to 'DWORD'
+     Creating library C:\sektor7\malware_dev_intermediate\VCSniffer\VCSniffer\x64\Release\VCMigrate.lib and object C:\sektor7\malware_dev_intermediate\VCSniffer\VCSniffer\x64\Release\VCMigrate.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  VCMigrate.vcxproj -> C:\sektor7\malware_dev_intermediate\VCSniffer\VCSniffer\x64\Release\VCMigrate.dll

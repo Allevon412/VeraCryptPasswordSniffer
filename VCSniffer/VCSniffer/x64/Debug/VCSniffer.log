@@ -1,0 +1,4 @@
+﻿  hooker_file.cpp
+C:\sektor7\malware_dev_intermediate\VCSniffer\VCSniffer\VCSniffer\hooker_file.cpp(38,58): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+     Creating library C:\sektor7\malware_dev_intermediate\VCSniffer\VCSniffer\x64\Debug\VCSniffer.lib and object C:\sektor7\malware_dev_intermediate\VCSniffer\VCSniffer\x64\Debug\VCSniffer.exp
+  VCSniffer.vcxproj -> C:\sektor7\malware_dev_intermediate\VCSniffer\VCSniffer\x64\Debug\VCSniffer.dll

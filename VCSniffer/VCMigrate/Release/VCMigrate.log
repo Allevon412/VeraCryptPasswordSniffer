@@ -1,0 +1,7 @@
+﻿  main.cpp
+     Creating library C:\sektor7\malware_dev_intermediate\VCSniffer\VCSniffer\Release\VCMigrate.lib and object C:\sektor7\malware_dev_intermediate\VCSniffer\VCSniffer\Release\VCMigrate.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  VCMigrate.vcxproj -> C:\sektor7\malware_dev_intermediate\VCSniffer\VCSniffer\Release\VCMigrate.dll
